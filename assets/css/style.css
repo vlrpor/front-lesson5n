@@ -103,3 +103,24 @@ img {
 	letter-spacing: 0.3 px;
 	line-height: 40px;
 }
+.foot {
+	background-color: #2E2E2E;
+	max-width: 1920px;
+	height: 207px;
+	object-fit: contain;
+	margin-top: 68px;
+}
+.divone, .divtwo, .logotip{
+	vertical-align: middle;
+	color: #F2F2F2;
+	display: inline-block;
+	margin-left: 150px;
+	margin-top: 67px;
+	margin-bottom: 78px;
+}
+.tel, .mail, .map {
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+	color: #F2F2F2;
+}
