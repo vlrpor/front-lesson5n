@@ -64,3 +64,42 @@ img {
 	margin: 30px;
 	width: 100%;
 }
+.more {
+	display: block;
+	text-align: right;
+	font-size: 24px;
+	letter-spacing: 0.4px;
+	line-height: 32px;
+	margin-top: 73px;
+	margin-bottom: 35px;
+	margin-right: 13px;
+	margin-left: 415px;
+
+}
+.static {
+	margin-top: 20px;
+	margin-bottom: 33px;
+	margin-right: 189px;
+	margin-left: 12px;
+	font-size: 30px;
+	letter-spacing: 0.3px;
+	line-height: 40px;
+}
+.info {
+	margin-top: 33px;
+	margin-bottom: 140px;
+	margin-right: 25px;
+	margin-left: 12px;
+	font-size: 18px;
+	letter-spacing: 0 px;
+	line-height: 24px;
+}
+.load {
+	display: block;
+	text-align: center;
+	margin-top: 56px;
+	margin-bottom: 53px;
+	font-size: 30px;
+	letter-spacing: 0.3 px;
+	line-height: 40px;
+}
