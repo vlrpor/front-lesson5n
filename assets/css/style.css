@@ -27,3 +27,40 @@ img {
 	vertical-align: middle;
 	margin-top: 73px;
 }
+.slaider {
+	max-width: 1640px;
+	width: 90%;
+	margin-inline: auto;
+	margin-top: 134px;
+	margin-bottom: 138px;
+}
+.popular-articles {
+	margin-top: 138px;
+	margin-bottom: 70px;
+	font-size: 40px;
+	letter-spacing: 0.4px;
+	line-height: 53px;
+}
+.popular {
+	max-width: 1640px;
+	margin-inline: auto;
+}
+.last-articles {
+	margin-top: 138px;
+	margin-bottom: 70px;
+	font-size: 40px;
+	letter-spacing: 0.4px;
+	line-height: 53px;
+}
+.last {
+	max-width: 1640px;
+	width: 90%;
+	margin-inline: auto;
+}
+.article {
+	display: inline-block;
+	margin-inline: auto;
+	max-width: 483px;
+	margin: 30px;
+	width: 100%;
+}
